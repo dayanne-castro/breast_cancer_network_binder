@@ -1,0 +1,6 @@
+pandas
+numpy
+sklearn
+pycrypto
+-e git://github.com/simonsfoundation/jp_svg_canvas#egg=jp_svg_canvas
+-e git://github.com/simonsfoundation/jp_gene_viz#egg=jp_gene_viz
