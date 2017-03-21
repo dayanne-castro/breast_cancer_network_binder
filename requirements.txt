@@ -1,9 +1,4 @@
-pandas>=0.19.2
-numpy>=1.12.0
 pycrypto>=2.6.1
-jupyter>=1.0.0
-ipython>=5.1.0
-ipywidgets>=5.1.4
 traitlets>=4.2.1
 python-igraph>=0.7.1
 -e git://github.com/scikit-learn/scikit-learn@eba8a6a66c7ca9306a39beb89c1f6d396d003f52#egg=scikit_learn
